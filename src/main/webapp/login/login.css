@@ -1,0 +1,134 @@
+@charset "UTF-8";
+		*{
+			margin: 0;
+			padding: 0;
+			outline: 0;
+		}
+		#logo{
+			width:185px;
+			height: 54px;
+			position:absolute;
+			top:56px;
+			left:250px;
+    		border: none;
+		}
+		#bj{
+			width:100%;
+		}
+		#logo2{
+			position:relative;
+			top:-67px;
+			right:-845px;
+		}		
+		#form_div{
+			width: 100%;
+			height: 380px;
+			align-content: center;
+			text-align: center;
+		}
+		.field>#username,#password{
+			width: 430.39px;
+  		  height: 60px;
+    		line-height: 60px;
+    		padding-left: 50px;
+    		font-size: 14px;
+    		color: #b6abb3;
+    		background: #fff;
+    		margin-bottom: 14px;
+		}
+		.field{
+			position: relative;
+		}
+		.field>img{
+			position: absolute;
+			top:20px;
+			left:732.31px;
+		}
+		.save_div{
+			width: 482.38px;
+			height: 12px;
+			margin: 0 auto;
+		}
+		#span1{
+			float: left;
+    		font-size: 12px;
+    		position: relative;
+		}
+		#a1{
+			float: right;
+    		font-size: 12px;
+    		color: #666;
+    		text-decoration: none;
+		}
+		#a2{
+			width:100%;
+			height:80px;
+			position: relative;
+		}
+		#a2>input{
+			position:absolute;
+			font-size: 20px;
+    		width: 482.38px;
+    		height: 60px;
+    		background-color: #EEB4B4;
+    		border: 2px solid #EEB4B4;
+    		color: #fff;
+    		margin: 13px -255px;
+    		transition-duration: 0.4s;
+		}
+		#a2>input:hover {
+    		background-color: #ff6297;
+    		color: white;
+		}
+		#a3{
+			width: 1200px;
+    		height: auto;
+    		margin: 0 auto;
+    		padding-top: 30px;
+    		text-align: center;
+    		text-decoration: none;
+		}
+		#a3>a{
+			width: 482.38px;
+    		font-size: 12px;
+    		color: #EEB4B4;
+    		transition-duration: 0.4s;
+    		text-decoration: none;
+		}
+		#a3>a:hover{
+			color: #ff6297;
+		}
+		footer{
+			width:100%;
+			height:400px;
+			background-color: #1E1E1E;
+		}
+		#shang{
+			width: 100%;
+			height: 148px;
+			background-image: url("../images/aaa.png");
+		}
+		#zhong{
+			overflow: hidden;
+		}
+		#zhong1{
+			width: 1000px;
+			margin: 0 auto;
+			overflow: hidden;
+		}
+		#zhong ul>li{
+			color: white;
+			list-style-type: none;
+			font-size: 15px;
+			margin: 13px 58px;
+    		padding: 0px 10px;
+		}
+		#zhong>ul>li>ul>li{
+			font-weight: normal;
+			font-size: 15px;
+			margin: 5px 0;
+		}
+		#li1,#li2,#li3{
+			float: left;
+		}
+				

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+.zhucebj{
+			width: 100%;
+    		height: 415px;
+    		background: url("../images/zhucebj.jpg") no-repeat center;
+    		background-size: cover;
+		}
+		.zhucelogo{
+			width: 1200px;
+    		height: auto;
+    		margin: 0 auto;
+    		padding-top: 57px;
+		}
+		.zhucelogo img{
+			width: 259px;
+    		height: 54px;
+    		display: block;
+		}
+		footer{
+			width:100%;
+			height:536px;
+			background-color: #1E1E1E;
+		}
+		#shang{
+			width: 100%;
+			height: 148px;
+			background-image: url("../images/aaa.png");
+		}
+		#zhong{
+			overflow: hidden;
+		}
+		#zhong1{
+			width: 1000px;
+			margin: 0 auto;
+			overflow: hidden;
+		}
+		#zhong ul>li{
+			color: white;
+			list-style-type: none;
+			font-size: 15px;
+			margin: 13px 58px;
+    		padding: 0px 10px;
+		}
+		#zhong>ul>li>ul>li{
+			font-weight: normal;
+			font-size: 15px;
+			margin: 5px 0;
+		}
+		#li1,#li2,#li3{
+			float: left;
+		}
